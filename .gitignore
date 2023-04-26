@@ -2,3 +2,5 @@
 *.sdf
 sdk/obj
 **/ipch
+sdk/output
+sdk/build
